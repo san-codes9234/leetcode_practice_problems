@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0414-third-maximum-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
