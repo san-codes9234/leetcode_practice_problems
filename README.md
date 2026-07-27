@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3499-maximize-active-section-with-trade-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
