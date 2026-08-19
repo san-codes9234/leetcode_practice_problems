@@ -1,27 +1,26 @@
 class Solution:
     def maxNumberOfFamilies(self, n: int, reservedSeats: List[List[int]]) -> int:
-        from collections import defaultdict
-        
-        # Group reserved seats by row
-        row_map = defaultdict(set)
+        rows = {}
+
+        # Store reserved seats 2 to 9 as a bitmask
         for row, seat in reservedSeats:
-            row_map[row].add(seat)
-        
-        # Check blocks for each reserved row
-        result = 0
-        for row, reserved in row_map.items():
-            left  = reserved.isdisjoint({2, 3, 4, 5})
-            mid   = reserved.isdisjoint({4, 5, 6, 7})
-            right = reserved.isdisjoint({6, 7, 8, 9})
-            
-            if left and right:
-                result += 2
-            elif left or mid or right:
-                result += 1
-            # else: 0
-        
-        # All unreserved rows contribute 2 groups each
-        unreserved_rows = n - len(row_map)
-        result += unreserved_rows * 2
-        
-        return result
+            if 2 <= seat <= 9:
+                rows[row] = rows.get(row, 0) | (1 << (seat - 2))
+
+        # Every completely empty row can fit 2 families
+        answer = 2 * (n - len(rows))
+
+        # Masks for possible family positions
+        left = 0b00001111      # seats 2,3,4,5
+        middle = 0b00111100    # seats 4,5,6,7
+        right = 0b11110000     # seats 6,7,8,9
+
+        for mask in rows.values():
+            if mask & left == 0 and mask & right == 0:
+                # Both sides are available
+                answer += 2
+            elif mask & left == 0 or mask & middle == 0 or mask & right == 0:
+                # At least one arrangement is available
+                answer += 1
+
+        return answer
