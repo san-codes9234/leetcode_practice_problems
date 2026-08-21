@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3546-equal-sum-grid-partition-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3731-find-missing-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Segment Tree
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Combinatorics
 |  |
 | ------- |
