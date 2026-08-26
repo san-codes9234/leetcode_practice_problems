@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
