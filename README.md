@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2906-construct-product-matrix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
