@@ -1,9 +1,8 @@
 class Solution:
-    def minimumDeletions(self, nums: list[int]) -> int:
-        n = len(nums)
-        lo = nums.index(min(nums))
-        hi = nums.index(max(nums))
-
-        lo, hi = min(lo, hi), max(lo, hi)
-
-        return min(hi + 1, n - lo, (lo + 1) + (n - hi))
+    def minimumDeletions(self, nums: List[int]) -> int:
+        mx=nums.index(max(nums))
+        mi=nums.index(min(nums))
+        n=len(nums)
+        if mi>mx:
+            mi,mx=mx,mi
+        return min(mx+1,n-mi,mi+1+n-mx)
