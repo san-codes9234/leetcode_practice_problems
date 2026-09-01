@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1406-stone-game-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
