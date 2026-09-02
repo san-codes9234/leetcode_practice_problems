@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
