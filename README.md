@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2069-walking-robot-simulation-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
