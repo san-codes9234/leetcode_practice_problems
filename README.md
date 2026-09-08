@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0115-distinct-subsequences) |
+| [0412-fizz-buzz](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2069-walking-robot-simulation-ii) |
