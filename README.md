@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0115-distinct-subsequences) |
+| [0344-reverse-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
