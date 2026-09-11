@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
