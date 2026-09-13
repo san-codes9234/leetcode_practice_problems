@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
