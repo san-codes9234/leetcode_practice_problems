@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3783-mirror-distance-of-an-integer](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3876-construct-uniform-parity-array-ii) |
