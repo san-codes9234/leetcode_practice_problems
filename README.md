@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0344-reverse-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
