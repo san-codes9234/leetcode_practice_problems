@@ -2,7 +2,6 @@ class Solution:
     def minSumOfLengths(self, arr: list[int], target: int) -> int:
         n = len(arr)
 
-        # best[i] = length of shortest valid subarray ending at or before index i
         best = [float('inf')] * n
 
         left = 0
@@ -19,10 +18,8 @@ class Solution:
             if curr_sum == target:
                 best_so_far = min(best_so_far, right - left + 1)
 
-            best[i := right] = best_so_far  # best[right] = shortest so far
+            best[i := right] = best_so_far
 
-        # second pass: for each valid subarray [left..right],
-        # pair it with best subarray ending strictly before left
         left = 0
         curr_sum = 0
         result = float('inf')
