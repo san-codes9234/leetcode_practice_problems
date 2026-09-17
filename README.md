@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0035-search-insert-position) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3488-closest-equal-element-queries](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3488-closest-equal-element-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1510-stone-game-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
