@@ -1,11 +1,10 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        last_seen = {}   # char -> most recent index
+        last_seen = {}
         left = 0
         best = 0
 
         for right, char in enumerate(s):
-            # If char is inside the current window, shrink from the left
             if char in last_seen and last_seen[char] >= left:
                 left = last_seen[char] + 1
 
