@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0115-distinct-subsequences) |
+| [0233-number-of-digit-one](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1406-stone-game-iii) |
