@@ -1,6 +1,6 @@
 class Solution:
     def minOperations(self, nums: list[int], x: int) -> int:
-        target = sum(nums) - x  # find longest subarray with this sum
+        target = sum(nums) - x
 
         if target < 0:
             return -1
