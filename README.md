@@ -410,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/san-codes9234/leetcode_practice_problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
