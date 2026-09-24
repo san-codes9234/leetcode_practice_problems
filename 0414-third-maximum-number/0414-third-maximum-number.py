@@ -5,7 +5,6 @@ class Solution:
         first = second = third = None
 
         for num in nums:
-            # Skip duplicates
             if num == first or num == second or num == third:
                 continue
 
